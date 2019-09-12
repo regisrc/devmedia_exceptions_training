@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Boolean flag = true;
             while (flag)
             {
-                //ola
+                //ola aa
                 Console.Write("Digite um número ('fim' para sair) : ");
                 String result = Console.ReadLine();
                 if (result.ToLower().Equals("fim"))
